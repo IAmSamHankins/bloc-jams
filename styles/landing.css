@@ -10,14 +10,6 @@ body.landing {
   background-color: #3a173f;
   /* sets the background color to an RGB value (see below) */ }
 
-.navbar {
-  padding: 0.5rem;
-  background-color: #65125f; }
-  .navbar .logo {
-    position: relative;
-    /* positioning will be explained in a resource */
-    left: 2rem; }
-
 .hero-content {
   position: relative;
   /* positioning will be explained in a resource */
